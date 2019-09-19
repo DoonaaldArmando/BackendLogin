@@ -1,0 +1,5 @@
+dependencies {
+
+    compile project(':puertos:baseDeDatos:mongodb')
+    compile project(':puertos:baseDeDatos:H2')
+}
